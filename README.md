@@ -3,7 +3,7 @@
 ## How to use
   1. Download the modules
   ```
-      pip install -r requirements.txt
+      pip install -r requirement.txt
   ```
   2. Execute the python script
   ```
@@ -11,5 +11,5 @@
   ```
   3. Enter the number from the specific web
      - Example
-        ![Alt text](./Fig1.jpg)
+        ![Alt text](./Fig1.png)
 ##
