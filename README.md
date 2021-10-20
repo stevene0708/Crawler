@@ -1,4 +1,5 @@
 # NHenCraw-v1
+NHenCraw-v1 is a Manga downloader and is NSFW.
 
 ## How to use
   1. Download the modules
