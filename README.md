@@ -3,13 +3,18 @@
 ## How to use
   1. Download the modules
   ```
-      pip install -r requirement.txt
+      pip3 install -r requirement.txt
   ```
   2. Execute the python script
   ```
-      python gui.py
+      python3 gui.py
   ```
   3. Enter the number from the specific web
      - Example
-        ![Alt text](./Fig1.png)
-##
+     
+       ![Alt text](./Fig1.PNG)
+
+## TODO
+  - [ ] Multithreading download
+  - [ ] Progress Bar
+  - [ ] Add pause and stop function
