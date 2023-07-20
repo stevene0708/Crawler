@@ -15,7 +15,11 @@ NHenCraw-v1 is a Manga downloader and is NSFW.
      
        ![Alt text](./Fig1.PNG)
 
+## Waring
+  - Need to use your browser header and cookie
+
 ## TODO
   - [ ] Multithreading download
   - [ ] Progress Bar
   - [ ] Add pause and stop function
+  - [ ] Set header and cookie's config
