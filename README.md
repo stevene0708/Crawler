@@ -13,7 +13,7 @@ NHenCraw-v1 is a Manga downloader and is NSFW.
   3. Enter the number from the specific web
      - Example
      
-       ![Alt text](./Fig1.PNG)
+       ![Alt text](./img/Fig1.PNG)
 
 ## Waring
   - Need to use your browser header and cookie
